@@ -1,0 +1,5 @@
+s = set()
+s.add(18)
+s.add("18")
+print("The set is:", s)
+print("The length of the set is:", len(s))
